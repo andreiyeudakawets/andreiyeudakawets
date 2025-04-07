@@ -1,4 +1,6 @@
-## Hi there 👋
+## 📫 Contacts
+- Telegram: @pilluaperse
+- Почта: andrejevdokovec@mail.com
 
 ## 🔧 Technologies and tools:
 
