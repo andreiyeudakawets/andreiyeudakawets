@@ -1,6 +1,6 @@
 ## 📫 Contacts
 - Telegram: @pilluaperse
-- Почта: andrejevdokovec@mail.com
+- Email: andrejevdokovec@gmail.com
 
 ## 🔧 Technologies and tools:
 
