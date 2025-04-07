@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔧 **Technologies and tools**:
+## 🔧 Technologies and tools:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -13,5 +13,5 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
 
-## 📊 Stats
+## 📊 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiyeudakawets&layout=compact)](https://github.com/andreiyeudakawets)
