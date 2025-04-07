@@ -14,5 +14,4 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
 
 ## 📊 Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreiyeudakawets&show_icons=true&theme=radical)](https://github.com/andreiyeudakawets)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreiyeudakawets&layout=compact)](https://github.com/andreiyeudakawets)
