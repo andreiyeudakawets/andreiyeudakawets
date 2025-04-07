@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🔧 **Technologies and tools**:
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
